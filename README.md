@@ -1,5 +1,5 @@
 # CIPHER
-Solution to this interview problem (Write in C++)
+Solution to this interview problem:
 
 Decrypts the following message:
 
